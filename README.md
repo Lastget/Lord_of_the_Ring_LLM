@@ -5,4 +5,6 @@ A large Language Model may have billions of parameters. It is difficult to finet
 In this notebook, we finetune the Bloom-3b model to generate Lord of the Ring-like texts. Which can be trained on Google Colab with free T4 GPU. 
 
 
-
+## Example 
+- Input prompt: The hobbits were so surprised seeing their friend
+- Output: The hobbits were so surprised seeing their friend hobbit again that they did not know what to say. They were so glad to see him that they could not help laughing.
